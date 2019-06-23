@@ -1,0 +1,14 @@
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\bin\Debug\netcoreapp2.2\DatingApp.deps.json
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\bin\Debug\netcoreapp2.2\DatingApp.runtimeconfig.json
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\bin\Debug\netcoreapp2.2\DatingApp.runtimeconfig.dev.json
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\bin\Debug\netcoreapp2.2\DatingApp.dll
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\bin\Debug\netcoreapp2.2\DatingApp.pdb
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\obj\Debug\netcoreapp2.2\DatingApp.csprojAssemblyReference.cache
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\obj\Debug\netcoreapp2.2\DatingApp.csproj.CoreCompileInputs.cache
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\obj\Debug\netcoreapp2.2\DatingApp.RazorAssemblyInfo.cache
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\obj\Debug\netcoreapp2.2\DatingApp.RazorAssemblyInfo.cs
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\obj\Debug\netcoreapp2.2\DatingApp.AssemblyInfoInputs.cache
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\obj\Debug\netcoreapp2.2\DatingApp.AssemblyInfo.cs
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\obj\Debug\netcoreapp2.2\DatingApp.RazorTargetAssemblyInfo.cache
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\obj\Debug\netcoreapp2.2\DatingApp.dll
+D:\Mitali Chourey\UdemyApp\DatingApp\wwwroot\obj\Debug\netcoreapp2.2\DatingApp.pdb
